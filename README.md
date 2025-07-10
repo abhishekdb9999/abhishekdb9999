@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hey, I’m Abhi 👋 — a Cybersecurity Analyst 🛡️ on a mission to keep threats out and systems locked down 🔒. I specialize in spotting vulnerabilities 👀, dissecting attacks 🧠, and making sure hackers have a very bad day 💥.<br><br>I get hype over threat hunting 🎯, log analysis 📊, and incident response 🚨. Whether it’s catching a phishing attempt or unraveling malware behavior 🐛, I stay ready so the networks don’t have to get ready.<br><br>⚡ Fast-paced SOC? I’m in.<br>🧪 Home lab experiments? Always.<br>📚 Latest CVEs? Already read 'em.<br><br>Security never sleeps, and honestly? Neither do I (unless the alerts finally stop pinging 😅).
+Hey, I’m Abhi 👋 Final year B.E. student in AIML 🤖 with a strong passion for Cybersecurity 🛡️. I’m especially interested in SOC Analyst and Security Engineer roles — love digging into threats, analyzing logs, and securing systems 🔐.
+
+I’ve been exploring tools like Wireshark, Burp Suite, and Splunk 🧰, and I’m also into how AI can be used for threat detection and automation ⚙️.
+
+Always learning, always building 💻 — ready to kickstart my journey in the cybersecurity world 🚀.
+
 
 
 ## 🌐 Socials:
