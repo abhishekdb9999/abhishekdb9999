@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Abhi 👋 Final year B.E. student in AIML 🤖 with a strong passion for Cybersecurity 🛡️. I’m especially interested in SOC Analyst and Security Engineer roles — love digging into threats, analyzing logs, and securing systems 🔐.
+Hey, I’m Abhishek👋 Final year B.E. student in AIML 🤖 with a strong passion for Cybersecurity 🛡️. I’m especially interested in SOC Analyst and Security Engineer roles — love digging into threats, analyzing logs, and securing systems 🔐.
 
 I’ve been exploring tools like Wireshark, Burp Suite, and Splunk 🧰, and I’m also into how AI can be used for threat detection and automation ⚙️.
 
